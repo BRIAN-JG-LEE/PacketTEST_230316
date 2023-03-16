@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PacketSimTest-javafx">
+    <output-path>$PROJECT_DIR$/out/artifacts/PacketSimTest_javafx</output-path>
+    <root id="archive" name="PacketSimTest-javafx.jar">
+      <element id="archive" name="demo_javafx.jar">
+        <element id="module-output" name="demo-javafx" />
+      </element>
+    </root>
+  </artifact>
+</component>
